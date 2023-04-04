@@ -1,3 +1,3 @@
-# synk-interns-task-2
+# sync_task2
 
 Quiz App Using JavaScript
